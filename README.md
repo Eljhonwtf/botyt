@@ -26,7 +26,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/CheirZ/HuTao-Proyect.git && cd HuTao-Proyect
+git clone https://github.com/Eljhonwtf/botyt.git && cd botyt
 ```
 ```bash
 yarn install && npm update && npm i
